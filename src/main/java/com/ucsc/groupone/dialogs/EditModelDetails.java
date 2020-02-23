@@ -7,8 +7,8 @@ package com.ucsc.groupone.dialogs;
 
 import com.ucsc.groupone.models.ClassifierModel;
 import com.ucsc.groupone.utils.FileChooserOptions;
-import javax.swing.JFileChooser;
-import javax.swing.JTextField;
+
+import javax.swing.*;
 
 /**
  *

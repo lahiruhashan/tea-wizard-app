@@ -6,28 +6,19 @@
 package com.ucsc.groupone.dialogs;
 
 import com.ucsc.groupone.models.ClassifierModel;
-import com.ucsc.groupone.popup.OpenProject;
-import com.ucsc.groupone.utils.Extensions;
-import com.ucsc.groupone.utils.FileChooserOptions;
-import com.ucsc.groupone.utils.SystemConstants;
-import com.ucsc.groupone.utils.SystemVariables;
-import com.ucsc.groupone.utils.Validator;
-import java.awt.event.KeyAdapter;
-import java.awt.event.KeyEvent;
-import java.io.File;
-import java.util.HashMap;
-import java.util.Map;
-import javax.swing.BorderFactory;
-import javax.swing.ImageIcon;
-import javax.swing.JFileChooser;
-import javax.swing.JTextField;
-import javax.swing.filechooser.FileNameExtensionFilter;
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
+import com.ucsc.groupone.utils.*;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
+
+import javax.swing.*;
+import javax.swing.filechooser.FileNameExtensionFilter;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+import java.awt.event.KeyAdapter;
+import java.awt.event.KeyEvent;
+import java.io.File;
 
 /**
  *

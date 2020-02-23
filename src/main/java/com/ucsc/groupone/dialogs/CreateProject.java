@@ -5,21 +5,16 @@
  */
 package com.ucsc.groupone.dialogs;
 
-import com.ucsc.groupone.frames.StartFrame;
 import com.ucsc.groupone.logger.WizardLogger;
 import com.ucsc.groupone.utils.ProjectXMLFileCreator;
 import com.ucsc.groupone.utils.SystemConstants;
 import com.ucsc.groupone.utils.SystemVariables;
-import java.awt.Color;
+
+import javax.swing.*;
+import java.awt.*;
 import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.nio.file.Files;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import javax.swing.BorderFactory;
-import javax.swing.JFileChooser;
-import javax.swing.border.Border;
 
 /**
  *
