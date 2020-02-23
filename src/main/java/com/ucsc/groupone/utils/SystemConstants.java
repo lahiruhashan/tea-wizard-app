@@ -42,7 +42,7 @@ public class SystemConstants {
     public static final String MODEL_DELETED = "Model Removed";
     
     // images paths
-    public static final String PATH_TO_MODEL_ICON = "C:/Users/Dell/Documents/NetBeansProjects/Tea-Wizard/src/main/java/resources/model-workspace-icon.png";
+    public static final String PATH_TO_MODEL_ICON = RESOURCE_FOLDER + "/model-workspace-icon.png";
     public static final String INVALID_COORDINATES = "Invalid Coordinates";
     public static final String INVALID_UAV_SPEED = "Invalid UAV Speed";
     
