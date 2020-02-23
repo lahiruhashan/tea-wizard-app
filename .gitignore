@@ -92,18 +92,18 @@ build
 
 
 
-/src/main/java/com/ucsc/groupone/TeaLeafDetectionApi/.idea/
-/src/main/java/com/ucsc/groupone/TeaLeafDetectionApi/Classifier/ObjectDetectionApi/
-/src/main/java/com/ucsc/groupone/TeaLeafDetectionApi/Classifier/TeaModel/tea_graph.pb
-/src/main/java/com/ucsc/groupone/TeaLeafDetectionApi/models/
-/src/main/java/com/ucsc/groupone/TeaLeafDetectionApi/output/images/
-/src/main/java/com/ucsc/groupone/TeaLeafDetectionApi/test_images/
-/src/main/java/com/ucsc/groupone/TeaLeafDetectionApi/test_video/
-/src/main/java/com/ucsc/groupone/TeaLeafDetectionApi/venv/
-/src/main/java/com/ucsc/groupone/TeaLeafDetectionApi/tea-new-2-classified.avi
+/src/main/java/com/ucsc/groupone/RESTApi/TeaLeafDetectionApi/.idea/
+/src/main/java/com/ucsc/groupone/RESTApi/TeaLeafDetectionApi/Classifier/ObjectDetectionApi/
+/src/main/java/com/ucsc/groupone/RESTApi/TeaLeafDetectionApi/Classifier/TeaModel/tea_graph.pb
+/src/main/java/com/ucsc/groupone/RESTApi/TeaLeafDetectionApi/models/
+/src/main/java/com/ucsc/groupone/RESTApi/TeaLeafDetectionApi/output/images/
+/src/main/java/com/ucsc/groupone/RESTApi/TeaLeafDetectionApi/test_images/
+/src/main/java/com/ucsc/groupone/RESTApi/TeaLeafDetectionApi/test_video/
+/src/main/java/com/ucsc/groupone/RESTApi/TeaLeafDetectionApi/venv/
+/src/main/java/com/ucsc/groupone/RESTApi/TeaLeafDetectionApi/tea-new-2-classified.avi
 /.idea/
 
-src/main/java/com/ucsc/groupone/TeaLeafDetectionApi/Classifier/Predictor/__pycache__/
-src/main/java/com/ucsc/groupone/TeaLeafDetectionApi/Classifier/Util/__pycache__/
-src/main/java/com/ucsc/groupone/TeaLeafDetectionApi/Classifier/__pycache__/
-src/main/java/com/ucsc/groupone/TeaLeafDetectionApi/__pycache__/
+src/main/java/com/ucsc/groupone/RESTApi/TeaLeafDetectionApi/Classifier/Predictor/__pycache__/
+src/main/java/com/ucsc/groupone/RESTApi/TeaLeafDetectionApi/Classifier/Util/__pycache__/
+src/main/java/com/ucsc/groupone/RESTApi/TeaLeafDetectionApi/Classifier/__pycache__/
+src/main/java/com/ucsc/groupone/RESTApi/TeaLeafDetectionApi/__pycache__/
